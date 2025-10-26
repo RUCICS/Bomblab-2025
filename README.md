@@ -105,6 +105,8 @@ README中有这个炸弹的信息，同学们可以通过对比是否是自己�
 gdb -args bomb solution.txt
 ```
 
+- **IDA：** 这是一个强大的图形化反汇编工具，可以节约你很多时间。参考[IDA 使用指南](./materials/ida_use.md)安装和使用IDA。
+
 ### 5. 我拆掉了吗🔥？
 
 通过访问[http://ics.men.ci/bomb/scoreboard](http://ics.men.ci/bomb/scoreboard)，可以观察每道题的通过与爆炸情况。数字是爆炸次数，淡青色背景表示题目通过。注意，爆炸次数会一定程度影响你的最终分数（网站分数仅供参考）。ddl之后网站不再接受炸弹的解除信息，请务必在ddl前进行炸弹拆除，并及时关注自己的爆炸情况。
