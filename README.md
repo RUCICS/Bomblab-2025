@@ -122,6 +122,7 @@ chmod 755 nuclearlab
 ## 一些学习资料
 - [CS:APP P193-P194](materials/gdb_use.pdf)：介绍了gdb的基本使用方法，顺便提醒一下大家多看这本教材。
 - [bilibili Linux 使用gdb调试入门](https://www.bilibili.com/video/BV1Kq4y1D7n2/?spm_id_from=333.337.search-card.all.click&vd_source=cf91d103de88c6efe6860e12de33503e)：同样介绍了使用gdb的基本调试方法，可以作为补充。
+- [IDA使用教程](materials/ida_use.md):一个方便的反汇编工具（optional）
 ---
 
 ## Tips
